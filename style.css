@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 80vh;
+    background-color: #F0F2F5;
+}
+.content{
+    width: 55%;
+    float: left;
+    margin-top: 225px;
+}
+.content img{
+    margin: 0 auto;
+    display: block;
+}
+.content h2{
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    margin-left: 37%;
+}
+.form{
+    width: 45%;
+    float: left;
+    margin-top: 135px;
+}
+.contact{
+    height: 345px;
+    width: 60%;
+    background-color: white;
+    border-radius: 8px;
+    margin-top: 50px;
+}
+
+.contact input{
+    display: block;
+    width: 95%;
+    margin: 0 auto;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 0px 0px 1px 1px grey;
+}
+
+
+.contact input[type=submit]{
+    background-color: #166FE5;
+    color: white;
+    font-size: 22px;
+}
+a {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    color: #166FE5;
+
+}
+.my{
+    padding-top: 20px;
+}
+.btn{
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 8%;
+    background-color: #42B72A;
+}
+hr{
+    border: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+}
